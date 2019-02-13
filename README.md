@@ -5,10 +5,12 @@ Topics are scripts are yet to be announced.
 
 ### Scripts
 * [Insntace Report]
+* [Stop Instnace using 'stop' tag]
 
 
 
 [Insntace Report]: <#>
+[Stop Instnace using 'stop' tag]: <#>
 
 
 
