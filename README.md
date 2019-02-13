@@ -1,2 +1,4 @@
-# python_boto3
-Python scripts for AWS. (Library - Boto3)
+# Python -- boto3
+Python scripts for AWS.
+
+Topics are scripts are yet to be announced.
